@@ -2,7 +2,7 @@
   "name": "myportfoliosite",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://pcampello.github.io/portfolio",
+  "homepage": "http://pcampello.github.io",
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
